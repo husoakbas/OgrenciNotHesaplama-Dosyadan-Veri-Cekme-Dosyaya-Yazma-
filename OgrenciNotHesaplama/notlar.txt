@@ -1,0 +1,6 @@
+Mavi,60,60
+Yesil,30,40
+Kirmizi,0,90
+Sari,40,80
+Siyah,65,85
+Beyaz,70,75

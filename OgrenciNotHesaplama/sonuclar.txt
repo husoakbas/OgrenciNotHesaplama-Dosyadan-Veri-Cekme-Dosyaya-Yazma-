@@ -1,0 +1,6 @@
+Mavi geçme notu: 60.0
+Yesil geçme notu: 36.0
+Kirmizi geçme notu: 54.0
+Sari geçme notu: 64.0
+Siyah geçme notu: 77.0
+Beyaz geçme notu: 73.0
